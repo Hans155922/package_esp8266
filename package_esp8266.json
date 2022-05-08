@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "esp8266",
-      "maintainer": "ESP8266 Community",
+      "maintainer": "ESP8266 Community 加速 by hans155922",
       "websiteURL": "https://hub.xn--gzu630h.xn--kpry57d/esp8266/Arduino",
       "email": "ivan@esp8266.com",
       "help": {
